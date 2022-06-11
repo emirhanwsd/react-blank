@@ -1,6 +1,6 @@
 # 🖥️ React Blank
 
-## Install
+## Installation
 
 ```shell
 gh repo clone emirhanwsd/react-blank
